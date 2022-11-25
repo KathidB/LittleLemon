@@ -1,2 +1,3 @@
 # Little-Lemon
-Little Lemon Restaurant - Coursera Meta Front-end HTML/CSS task
+
+Little Lemon Restaurant - Coursera Meta Front-end HTML/CSS task!
