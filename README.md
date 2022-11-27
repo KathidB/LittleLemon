@@ -1,3 +1,3 @@
 # Little-Lemon
 
-Little Lemon Restaurant - Coursera Meta Front-end HTML/CSS task!
+The Little Lemon project is a task that was carried out for the Meta Front-End Developer Professional Certificate.
